@@ -1,3 +1,4 @@
+"use strict";
 const xArray = [-100, -150, -200];
 const yArray = [60, 140, 220];
 const speedArray = [50, 100, 150, 200, 250];
