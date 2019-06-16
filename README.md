@@ -2,17 +2,17 @@
 
 ## Table of Contents
 
-- Goal
 - How to run the game
+- Goal
 - Instructions
 
 
-## Goal
-
-The goal of the player is to reach the water, without colliding into any one of the enemies.
-
 ## How to run the game
 Open index.html in any browser.
+
+## Goal
+The goal of the player is to reach the water, without colliding into any one of the enemies.
+
 ## Instructions
 - The player can move left, right, up and down
   - Press up arrow key to move forward
